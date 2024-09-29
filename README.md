@@ -1,2 +1,2 @@
 # js-dsa
-This repository will have interview question for JavaScript including polyfills and logical questions.
+This repository will have Data structures like Array,  Hash tables, Linkec List, Stack, Queue, Trees, Graph in Javascript.
